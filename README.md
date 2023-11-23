@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Musa-Yigit-Yayla I'm a cs student in Bilkent University
-- 👀 I’m interested in Java, JavaFX, C++, GUI design
-- 🌱 I’m currently learning SystemVerilog, C++
+- 👀 I’m interested in Java, JavaFX, C++, GUI design, SystemVerilog, JavaScript
+- 🌱 I’m currently learning React.js and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can mail me via yigit.yayla@ug.bilkent.edu.tr
 
